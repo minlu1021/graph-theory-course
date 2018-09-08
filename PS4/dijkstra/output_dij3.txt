@@ -1,0 +1,4 @@
+Start from:  1
+To end:  7
+Path of Dijkstra in graph G:  [1, 2, 7]
+The minimum weight sum from start to end:  17

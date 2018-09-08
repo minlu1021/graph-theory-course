@@ -1,0 +1,4 @@
+Start from:  10
+To end:  9
+Path of Dijkstra in graph G:  [10, 1, 2, 6, 9]
+The minimum weight sum from start to end:  6

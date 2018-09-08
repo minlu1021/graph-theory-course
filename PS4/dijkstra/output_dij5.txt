@@ -1,0 +1,4 @@
+Start from:  1
+To end:  8
+Path of Dijkstra in graph G:  [1, 6, 3, 4, 8]
+The minimum weight sum from start to end:  44

@@ -1,0 +1,4 @@
+Start from:  2
+To end:  97
+Path of Dijkstra in graph G:  [2, 53, 3, 13, 97]
+The minimum weight sum from start to end:  8
